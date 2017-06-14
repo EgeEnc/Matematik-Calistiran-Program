@@ -6,7 +6,6 @@ if os.name == "nt":
     os.system("title Basit bir Matematik Programi---Tasarlayan---Ege Enc")
 
 print("Basit bir Matematik Programi","\n"*4)
-
 print("Tasarlayan:Ege Enc","\n"*4)
 
 def SoruUret():
